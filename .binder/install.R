@@ -39,3 +39,6 @@ install.packages("utf8")
 install.packages("vctrs")
 install.packages("xfun")
 install.packages("yaml")
+install.packages("easystats")
+
+easystats::install_suggested()
